@@ -4,7 +4,11 @@ Acesse em: <https://credit-scoring-mfxn.onrender.com/>
 
 ## Visualização da Aplicação
 
-[https://www.veed.io/view/9abba8ae-22f8-419c-9731-c45304d0e0c1](https://www.veed.io/view/9abba8ae-22f8-419c-9731-c45304d0e0c1?panel=share)
+
+
+https://github.com/user-attachments/assets/7bc89169-a443-4e4f-aa3c-672f9853dd78
+
+
 
 ## Credit Scoring
 
